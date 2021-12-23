@@ -1,0 +1,59 @@
+* {
+    scroll-behavior: smooth;
+}
+
+section {
+    padding: 20px 0px;
+}
+
+body {
+    background-color: #222;
+    color: white;
+}
+
+.navbar-brand img {
+    width: 50px;
+    border-radius: 15px;
+    padding-right: 5px;
+}
+
+.BG img {
+    height: 1000px;
+}
+
+.hl {
+    height: 3px;
+    margin: auto;
+    border-radius: 50%;
+    width: 50%;
+    background: linear-gradient(to right, red, black, red);
+}
+
+#nav-tab {
+    margin: 10px auto;
+    width: 50%;
+    border: hidden;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #222;
+    color: cyan;
+}
+
+.col-lg-3 {
+    margin: auto;
+}
+
+.col-md-4 {
+    margin: 5px 0px;
+    padding: 0px 15px;
+}
+
+.col-md-4 img {
+    border-radius: 15px;
+}
+
+.footer li a {
+    text-decoration: none;
+    color: white;
+}
